@@ -109,3 +109,8 @@ Main.py:
 from camera import startapplication
 startapplication()
 ```
+
+## Output:
+
+![image](https://github.com/durga46/Accident-Detection-System/assets/75235704/0c233722-c0f2-41cd-8cc5-bc0cc78c2b87)
+
